@@ -1,6 +1,6 @@
 ﻿namespace MagicVilla_VillaAPI.Logging
 {
-    public class Logging : ILogging
+    public class Loggingv2 : ILogging
     {
         public void Log(string message, string type)
         {
